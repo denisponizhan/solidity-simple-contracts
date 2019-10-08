@@ -9700,12 +9700,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x15e097C4D3f3c99C34Cf358906E1Aa4764cBD5c7",
-      "transactionHash": "0x325dad324337136f9ec16d0fb0c566d034eb13cbd34d96f3026052869789c6ec"
+      "address": "0x2f233e915C06B8E3B24b1C7aB0242d6BC03b08Bf",
+      "transactionHash": "0xbab1f22878196d95fb11c2162acd87771e903a065ea82cd37fb7b63eb8852d10"
     }
   },
   "schemaVersion": "3.0.16",
-  "updatedAt": "2019-09-26T20:44:24.903Z",
+  "updatedAt": "2019-10-08T08:21:24.076Z",
   "devdoc": {
     "methods": {
       "winningProposal()": {
